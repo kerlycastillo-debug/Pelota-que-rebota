@@ -1,4 +1,4 @@
-const NP =500
+const NP =300
 let pelotas = [];
 
 
